@@ -33,6 +33,14 @@ To transform call centre data into clear, actionable insights using Excel’s an
 - 👤 Representative **R02** contributed the highest call volume (**22% of total calls**) and ranked first with **74 happy customer interactions**.
 - 👤 Representative **R03** achieved the highest sales performance, generating **$20,872** in revenue.
 
+## 📈 Key Analytical Insights
+
+- Among 389 total callers in Cleveland, only 63 were male, indicating significantly lower engagement from male customers in this location. In Columbus, female callers accounted for 129 out of 335 total calls, reflecting comparatively lower participation from this segment. While both segments show under-engagement, Cleveland male customers represent the lowest participation and should be prioritized for
+  targeted engagement initiatives.
+
+- Out of 307 total happy calls, Representative R05 contributed the lowest number of happy calls despite handling 200 total calls. This indicates lower effectiveness in converting calls into positive customer outcomes. In contrast, Representative R02 achieved the highest number of happy calls (74), suggesting stronger customer handling skills. Performance improvement for R05 could be supported through focused training or structured knowledge transfer from R02.
+
+
 
 ---
 
