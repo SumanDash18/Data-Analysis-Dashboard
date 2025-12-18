@@ -13,7 +13,7 @@ This dashboard highlights call volume, revenue, agent performance, customer rati
 ---
 
 ## 🎯 Project Objective
-To transform call centre data into clear, actionable insights using Excel’s analytical features.
+To analyze call center performance data and derive actionable insights on call volume trends, agent performance, customer satisfaction, and regional engagement using Microsoft Excel.
 
 ---
 
